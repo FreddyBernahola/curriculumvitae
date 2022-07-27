@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+   text-align: center;
+   background-color: rgb(171, 171, 202);
+}
+h2{
+    justify-content: center;
+    background-color: rgb(129, 151, 193);
+}
+    
+
+ol{
+    margin: 10%;
+    padding: 1%;
+    justify-content:baseline;
+    margin: 0;
+    color: black;
+    background-color: rgb(201, 201, 236);
+}
